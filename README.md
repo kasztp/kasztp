@@ -1,6 +1,6 @@
 ### Hello My name is Peter 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasztp&hide=html&langs_count=8&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasztp&langs_count=8&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on: Sourcing tool for recruiters.
 
