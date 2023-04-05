@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasztp&langs_count=8&exclude_repo=jupyter_notebooks&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on: -
+🔭 I’m currently working on: Some games for the Pygames Hackathon
 
 👯 I’m looking to collaborate on Open Source projects.
 
