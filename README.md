@@ -1,6 +1,6 @@
 ### Hello My name is Peter 👋
 
-[![Top Langs](https://github-readme-stats-kasztp.vercel.app/api/top-langs/?layout=compact&langs_count=8&exclude_repo=jupyter_notebooks&username=kasztp&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kasztp.vercel.app/api/top-langs/?layout=compact&langs_count=8&exclude_repo=jupyter_notebooks,github-readme-stats&username=kasztp&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on: Some games for the Pygames Hackathon
 
